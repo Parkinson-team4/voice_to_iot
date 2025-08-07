@@ -15,6 +15,7 @@
 ## 🔧 시스템 아키텍처
 
 이 시스템은 음성으로 IoT 조명을 제어하는 파이프라인으로 구성되어 있습니다:
+
 <pre>
 [사용자 음성 입력]
         │
@@ -46,3 +47,5 @@
 - Azure Functions (HTTP Trigger)
 - Azure IoT Hub
 - IoT 디바이스 (예: Raspberry Pi, ESP32 등)
+
+## test

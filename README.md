@@ -47,5 +47,3 @@
 - Azure Functions (HTTP Trigger)
 - Azure IoT Hub
 - IoT 디바이스 (예: Raspberry Pi, ESP32 등)
-
-## test
